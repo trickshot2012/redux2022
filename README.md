@@ -9,5 +9,5 @@ Counter changed on Page1 will displayed in Header and Page 2
 "react-redux": "^7.2.6",
 "react-router-dom": "^6.2.1",
 
-![Image Screenshot](img/page1.PNG)
-![Image Screenshot](img/page2.PNG)
+![Image Screenshot](img/p1.PNG)
+![Image Screenshot](img/p2.PNG)
